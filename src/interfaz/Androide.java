@@ -40,7 +40,7 @@ public class Androide extends Guerrero {
             }
         }
         if (enemigo.nivelPoder > 0) {
-            System.out.println("Nivel de poder de " + enemigo.nombre + ": " + enemigo.nivelPoder);
+            System.out.println("Nivel de poder de " + enemigo.nombre + ": " + enemigo.nivelPoder + "\n");
         } else {
             System.out.println("\n" + enemigo.nombre + " ha sido derrotado");
         }

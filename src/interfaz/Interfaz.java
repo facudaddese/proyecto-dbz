@@ -34,7 +34,7 @@ public class Interfaz {
 
         try {
             System.out.println("Esperando unos segundos hasta que empiecen los combates...\n");
-            Thread.sleep(8000);
+            Thread.sleep(10000);
         } catch (InterruptedException e) {
         }
 
